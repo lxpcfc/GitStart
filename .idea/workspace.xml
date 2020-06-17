@@ -25,11 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41221d26-3dea-4710-9994-93676154132b" name="Default Changelist" comment="added text of part 2">
-      <change beforePath="$PROJECT_DIR$/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" />
-    </list>
+    <list default="true" id="41221d26-3dea-4710-9994-93676154132b" name="Default Changelist" comment="added text of part 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
